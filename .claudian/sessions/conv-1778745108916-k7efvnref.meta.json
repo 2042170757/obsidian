@@ -4,8 +4,8 @@
   "title": "Explain knowledge base structure",
   "titleGenerationStatus": "success",
   "createdAt": 1778745108917,
-  "updatedAt": 1778745314876,
-  "lastResponseAt": 1778745314876,
+  "updatedAt": 1778745389909,
+  "lastResponseAt": 1778745389909,
   "sessionId": "502e4704-77b2-4321-9fe9-a9ef6db4eb5f",
   "providerState": {
     "providerSessionId": "502e4704-77b2-4321-9fe9-a9ef6db4eb5f"
@@ -13,11 +13,11 @@
   "currentNote": "学习笔记/AI发展的四个阶段.md",
   "usage": {
     "model": "sonnet[1m]",
-    "inputTokens": 67,
+    "inputTokens": 163,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 36992,
+    "cacheReadInputTokens": 40192,
     "contextWindow": 1000000,
-    "contextTokens": 37059,
+    "contextTokens": 40355,
     "percentage": 4,
     "contextWindowIsAuthoritative": true
   }
