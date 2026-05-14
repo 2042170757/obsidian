@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777127085381-38d0d4gve",
+  "providerId": "claude",
+  "title": "帮我查找六大提示词优化技巧",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777127085381,
+  "updatedAt": 1777528557139,
+  "lastResponseAt": 1777127109554,
+  "sessionId": "2efa2787-9238-452e-9294-e7f95a6145db",
+  "providerState": {
+    "providerSessionId": "2efa2787-9238-452e-9294-e7f95a6145db"
+  },
+  "currentNote": "学习笔记/这样写Prompt，AI真的会谢.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

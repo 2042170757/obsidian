@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778234012584-we8ruu12n",
+  "providerId": "claude",
+  "title": "添加C端D端G端用户分类",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778234012585,
+  "updatedAt": 1778294448731,
+  "lastResponseAt": 1778234160846,
+  "sessionId": "3233f42b-ff73-4b9a-9e63-542fd74e7839",
+  "providerState": {
+    "providerSessionId": "3233f42b-ff73-4b9a-9e63-542fd74e7839"
+  },
+  "currentNote": "学习笔记/超大文字接龙高手修炼秘籍.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

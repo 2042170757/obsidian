@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776493040530-lkiiebv9h",
+  "providerId": "claude",
+  "title": "Set up Karpathy-style project structure",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776493040530,
+  "updatedAt": 1776949136442,
+  "lastResponseAt": 1776949113445,
+  "sessionId": "8cce58c5-eb02-4e42-9cc7-45b16413b125",
+  "providerState": {
+    "providerSessionId": "8cce58c5-eb02-4e42-9cc7-45b16413b125"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

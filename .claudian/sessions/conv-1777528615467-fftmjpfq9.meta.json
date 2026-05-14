@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777528615467-fftmjpfq9",
+  "providerId": "claude",
+  "title": "有关对比的地方都帮我弄成表格的形式，感觉有点丑了",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777528615467,
+  "updatedAt": 1777542955792,
+  "lastResponseAt": 1777529530349,
+  "sessionId": "384a0ccc-4399-4c00-a025-cb1641db9118",
+  "providerState": {
+    "providerSessionId": "384a0ccc-4399-4c00-a025-cb1641db9118"
+  },
+  "currentNote": "学习笔记/失控玩家：Linux 服务器里能干的那些坏事.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

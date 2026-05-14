@@ -1,0 +1,22 @@
+{
+  "id": "conv-1776406040352-twcg5b49e",
+  "providerId": "claude",
+  "title": "Start new session",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776406040358,
+  "updatedAt": 1776492541900,
+  "lastResponseAt": 1776492524555,
+  "sessionId": "2175d406-ebd3-482d-a387-e2f6a13b4220",
+  "providerState": {
+    "providerSessionId": "2175d406-ebd3-482d-a387-e2f6a13b4220"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 76620,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 76620,
+    "percentage": 8
+  }
+}

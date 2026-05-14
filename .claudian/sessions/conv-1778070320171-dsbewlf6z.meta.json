@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778070320171-dsbewlf6z",
+  "providerId": "claude",
+  "title": "Let me first find the existing note in your Obs...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778070320171,
+  "updatedAt": 1778233670614,
+  "lastResponseAt": 1778070448092,
+  "sessionId": "20ed4ca2-4fbd-49b1-a4e3-ad7d617408b6",
+  "providerState": {
+    "providerSessionId": "20ed4ca2-4fbd-49b1-a4e3-ad7d617408b6"
+  },
+  "currentNote": "5.06 课后作业.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

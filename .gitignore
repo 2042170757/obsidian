@@ -1,0 +1,19 @@
+# Obsidian workspace (频繁变动，无版本意义)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 缓存
+.obsidian/cache
+
+# 插件数据（可能含敏感信息或频繁变动）
+.obsidian/plugins/obsidian-git/data.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+~$*

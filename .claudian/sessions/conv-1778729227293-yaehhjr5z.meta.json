@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778729227293-yaehhjr5z",
+  "providerId": "claude",
+  "title": "整理笔记到知识库看起来你的 Obsidian 仓库 `D:\\obsidian\\reposito...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778729227293,
+  "updatedAt": 1778745102349,
+  "lastResponseAt": 1778729745636,
+  "sessionId": "237ed2f0-5e43-46fb-b60d-4dd94565afc9",
+  "providerState": {
+    "providerSessionId": "237ed2f0-5e43-46fb-b60d-4dd94565afc9"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

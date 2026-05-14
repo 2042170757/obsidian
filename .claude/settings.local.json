@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"D:\\\\obsidian\\\\repository\\\\第一次实验\\\\学习笔记\")",
+      "Bash(obsidian create *)",
+      "Bash(mcp__claude-recall__load_rules *)",
+      "Bash(CLAUDE_RECALL_ENFORCE_MODE=off obsidian create *)",
+      "Read(//c/Users/20421/.claude/skills/**)",
+      "Read(//c/Users/20421/.claude/plugins/cache/**)",
+      "Read(//c/Users/20421/.claude/**)"
+    ]
+  }
+}

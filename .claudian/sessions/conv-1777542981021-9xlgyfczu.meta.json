@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777542981021-9xlgyfczu",
+  "providerId": "claude",
+  "title": "帮我把多余行的空格删掉",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777542981022,
+  "updatedAt": 1777551633603,
+  "lastResponseAt": 1777543037357,
+  "sessionId": "c6713d8d-00e1-495a-acb1-79956ebed8bd",
+  "providerState": {
+    "providerSessionId": "c6713d8d-00e1-495a-acb1-79956ebed8bd"
+  },
+  "currentNote": "word1.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

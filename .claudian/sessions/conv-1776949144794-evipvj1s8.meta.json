@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776949144794-evipvj1s8",
+  "providerId": "claude",
+  "title": "Verify token-to-character conversion rates",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776949144795,
+  "updatedAt": 1777010500450,
+  "lastResponseAt": 1777010433218,
+  "sessionId": "16e54003-759a-4840-b83f-ce95562387ac",
+  "providerState": {
+    "providerSessionId": "16e54003-759a-4840-b83f-ce95562387ac"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 31508,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 31508,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

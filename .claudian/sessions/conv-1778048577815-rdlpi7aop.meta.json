@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778048577815-rdlpi7aop",
+  "providerId": "claude",
+  "title": "Add GPTQ quantization algorithm notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778048577815,
+  "updatedAt": 1778049312192,
+  "lastResponseAt": 1778049166419,
+  "sessionId": "6649fefd-a8cb-408b-a66b-93072e357095",
+  "providerState": {
+    "providerSessionId": "6649fefd-a8cb-408b-a66b-93072e357095"
+  },
+  "currentNote": "学习笔记/量化减肥指南——你的模型在显卡里喊救命.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

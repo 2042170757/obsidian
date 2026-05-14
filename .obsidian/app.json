@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "livePreview": true,
+  "vimMode": false,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778294476119-cn4q36sps",
+  "providerId": "claude",
+  "title": "Add 101 to 1xx content in notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778294476120,
+  "updatedAt": 1778652537778,
+  "lastResponseAt": 1778297940547,
+  "sessionId": "cd526610-1327-4c38-91cf-f4a6aa55e153",
+  "providerState": {
+    "providerSessionId": "cd526610-1327-4c38-91cf-f4a6aa55e153"
+  },
+  "currentNote": "学习笔记/HTTP打怪升级手册.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

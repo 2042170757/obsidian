@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777553329556-m3cunfkaj",
+  "providerId": "claude",
+  "title": "删除空余行",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777553329557,
+  "updatedAt": 1777985777087,
+  "lastResponseAt": 1777553680171,
+  "sessionId": "7c726c3c-c023-43b8-bb41-b942d36c6e46",
+  "providerState": {
+    "providerSessionId": "7c726c3c-c023-43b8-bb41-b942d36c6e46"
+  },
+  "currentNote": "word1.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
