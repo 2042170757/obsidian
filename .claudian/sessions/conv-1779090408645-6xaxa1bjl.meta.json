@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779090408645-6xaxa1bjl",
+  "providerId": "claude",
+  "title": "Add numbers to knowledge point list items",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779090408645,
+  "updatedAt": 1779090599372,
+  "lastResponseAt": 1779090599372,
+  "sessionId": "4f4e7637-0963-4147-9d6d-b9202b76ea12",
+  "providerState": {
+    "providerSessionId": "4f4e7637-0963-4147-9d6d-b9202b76ea12"
+  },
+  "currentNote": "学习笔记/课程回顾重点.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1900,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35712,
+    "contextWindow": 1000000,
+    "contextTokens": 37612,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
