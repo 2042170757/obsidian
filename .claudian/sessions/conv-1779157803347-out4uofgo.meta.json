@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779157803347-out4uofgo",
+  "providerId": "claude",
+  "title": "Identify current AI model",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779157803347,
+  "updatedAt": 1779158644018,
+  "lastResponseAt": 1779158644018,
+  "sessionId": "f02188b1-2fea-459b-a2ed-4c9e3274085b",
+  "providerState": {
+    "providerSessionId": "f02188b1-2fea-459b-a2ed-4c9e3274085b"
+  },
+  "currentNote": "学习笔记/别动我的容器！Docker修仙传.md",
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 846,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43648,
+    "contextWindow": 1000000,
+    "contextTokens": 44494,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
